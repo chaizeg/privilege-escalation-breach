@@ -19,4 +19,4 @@ Successful attacks of this vulnerability can result in takeover of Oracle Solari
 nano exploit.sh
 ```
 
--The report is in French, it describes measures which could limit this type of breach, it also gives a detailed analysis of the breach etc. It also gives a detailed walk-through what you should do in order to reproduce the breach. 
+-The report is in French, it describes measures which could limit this type of breach, it also gives a detailed analysis of the breach and a detailed walk-through of what you should do in order to reproduce the breach. 
